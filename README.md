@@ -1,4 +1,6 @@
 Student Stress Analysis Project
+
+
 Overview
 This project explores various factors that might affect student stress levels. Utilizing a dataset of student responses, the analysis focuses on understanding the relationships between different variables such as sleep quality, headache frequency, academic performance, study load, extracurricular activities, and reported stress levels.
 
@@ -29,3 +31,5 @@ The repository includes visual representations like heatmaps to illustrate the c
 
 Conclusion
 The analysis reveals the multifaceted nature of student stress. While some findings align with common expectations (like the impact of study load), others offer new insights, especially the relationship between sleep quality and stress levels.
+
+Special Thanks to Kaggle, for providing dataset for this analysis.
