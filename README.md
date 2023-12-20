@@ -7,12 +7,12 @@ This project explores various factors that might affect student stress levels. U
 Dataset
 The dataset includes responses from students on various aspects that could influence their stress levels. Key fields in the dataset include:
 
-Sleep Quality
-Headache Frequency
-Academic Performance
-Study Load
-Extracurricular Activities
-Stress Levels
+Sleep Quality,
+Headache Frequency,
+Academic Performance,
+Study Load,
+Extracurricular Activities,
+Stress Levels.
 
 
 Correlation Analysis Findings
@@ -23,11 +23,13 @@ Study Load and Stress Levels: Positive correlation, indicating that heavier stud
 Extracurricular Activities and Stress Levels: Positive correlation, hinting at a potential increase in stress with more extracurricular commitments.
 Headaches and Stress Levels: Slightly negative correlation, implying that stress levels might not significantly influence the frequency of headaches.
 Academic Performance and Stress Levels: Almost no correlation, suggesting that perceived academic success does not have a strong direct impact on stress levels.
-Tools and Technologies
+
+
+Tools and Technologies:
+
 Python for data analysis
 Libraries: Pandas, Seaborn, Matplotlib
-Visualizations
-The repository includes visual representations like heatmaps to illustrate the correlations in the data, making it easier to understand the relationships between different factors.
+
 
 Conclusion
 The analysis reveals the multifaceted nature of student stress. While some findings align with common expectations (like the impact of study load), others offer new insights, especially the relationship between sleep quality and stress levels.
